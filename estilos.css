@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 80px 200px 60px;
+}
+
+.header {
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    background-color: cyan;
+    font-size: x-large;
+    font-style: normal;
+    font-family: 'Trebuchet MS';
+}
+
+.nav {
+    background-color: rgb(203, 245, 18);
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+}
+
+.article {
+    background-color: rgb(133, 211, 17);
+    grid-column-start: 2;
+    grid-column-end: 3;
+
+}
+
+.section {
+    
+    display: grid;
+    margin: 10px 20px;
+
+}
+
+.color-purple {
+    background-color: blueviolet;
+}
+
+.color-redorange {
+    background-color: rgb(243, 69, 17);
+}
+.aside {
+    background-color: rgb(245, 193, 23);
+    grid-column-start: 3;
+    grid-column-end: 4;
+
+}
+
+.footer {
+    background-color: cyan;
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+}
+
