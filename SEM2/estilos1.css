@@ -1,0 +1,50 @@
+
+
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+form{
+    text-align: center;    
+}
+input::placeholder{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    font-size: 15px;
+    border-radius: 10pt;
+    background-color: cornsilk;
+    inline-size: none;
+}
+
+
+legend{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    font-size: 20px;
+    border-radius: 5pt;
+    background-color: cornsilk;
+    
+}
+
+fieldset{
+    border-radius: 10pt;
+    background-color: cadetblue;
+}
+
+input[type=submit]{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
+    width: 130px;
+    height: 50px;
+    color: white;
+    border-radius: 10pt;
+    background-color: indigo;
+}
+
+
+
