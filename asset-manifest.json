@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sem9_jcruz.git/static/css/main.742bb766.chunk.css",
+    "main.js": "/Sem9_jcruz.git/static/js/main.ec0e4d07.chunk.js",
+    "main.js.map": "/Sem9_jcruz.git/static/js/main.ec0e4d07.chunk.js.map",
+    "runtime-main.js": "/Sem9_jcruz.git/static/js/runtime-main.96c8944c.js",
+    "runtime-main.js.map": "/Sem9_jcruz.git/static/js/runtime-main.96c8944c.js.map",
+    "static/js/2.96b99593.chunk.js": "/Sem9_jcruz.git/static/js/2.96b99593.chunk.js",
+    "static/js/2.96b99593.chunk.js.map": "/Sem9_jcruz.git/static/js/2.96b99593.chunk.js.map",
+    "static/js/3.9b52d9dd.chunk.js": "/Sem9_jcruz.git/static/js/3.9b52d9dd.chunk.js",
+    "static/js/3.9b52d9dd.chunk.js.map": "/Sem9_jcruz.git/static/js/3.9b52d9dd.chunk.js.map",
+    "index.html": "/Sem9_jcruz.git/index.html",
+    "static/css/main.742bb766.chunk.css.map": "/Sem9_jcruz.git/static/css/main.742bb766.chunk.css.map",
+    "static/js/2.96b99593.chunk.js.LICENSE.txt": "/Sem9_jcruz.git/static/js/2.96b99593.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Sem9_jcruz.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96c8944c.js",
+    "static/js/2.96b99593.chunk.js",
+    "static/css/main.742bb766.chunk.css",
+    "static/js/main.ec0e4d07.chunk.js"
+  ]
+}
