@@ -1,0 +1,30 @@
+.Container{
+  height: 100%;
+  
+}
+.Container-grid{
+  background: linear-gradient(to bottom, #6fe764 0%,#d97b93 100%);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1em;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.Header, .Footer{
+  grid-column: 1/4;
+  height: 20vh;
+  background-color: rgb(243, 198, 245);
+}
+.Asidenav, .Aside2 {
+  grid-column: 1fr;
+  height: 60vh;
+  background-color: aqua;
+}
+
+.Content {
+  grid-column: 1fr;
+  height: 60vh;
+  background-color: cadetblue;
+}
+
